@@ -1,0 +1,2 @@
+# dependencies for vrp_compare_lite.py
+vrplib
